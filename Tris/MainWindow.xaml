@@ -1,0 +1,32 @@
+﻿<Window x:Class="Tris.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tris"
+        mc:Ignorable="d"
+        Title="Modalità di gioco" Height="250" Width="320" ResizeMode="NoResize" Background="White">
+    <Grid Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!--
+        <Border Grid.Row="0" BorderBrush="Black" BorderThickness="1" Background="White" CornerRadius="10"/>
+        -->
+        <Label Content="Seleziona la modalità di gioco!" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="18" Foreground="Red" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Black"/>
+        <!--
+        <Border Grid.Row="1" BorderBrush="Black" BorderThickness="2" CornerRadius="20" Background="White"/>
+        -->
+        <StackPanel Grid.Row="1">
+            <GroupBox Grid.Row="1" Background="Transparent" BorderThickness="0">
+                <StackPanel>
+                    <RadioButton x:Name="RdBtnG1vsG2" Content="Giocatore1 vs Giocatore2" FontSize="20" Margin="9" Foreground="Goldenrod" FontWeight="ExtraBold" Checked="RdBtnSelezione_Checked"/>
+                    <RadioButton x:Name="RdBtnG1vCPU" Content="Giocatore1 vs CPU" FontSize="20" Margin="9" Foreground="Goldenrod" FontWeight="ExtraBold" Checked="RdBtnSelezione_Checked"/>
+                    <RadioButton x:Name="RdBtnG1vsAI" Content="Giocatore1 vs AI" FontSize="20" Margin="9" Foreground="Goldenrod" FontWeight="ExtraBold" Checked="RdBtnSelezione_Checked"/>
+                </StackPanel>
+            </GroupBox>
+            <Button x:Name="BtnOK" Content="OK" IsEnabled="False" Margin="250, 10, 10, 10" Background="AliceBlue" Foreground="Green" FontWeight="Bold" Click="BtnOK_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

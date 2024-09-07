@@ -1,0 +1,81 @@
+C:\Users\manue\Desktop\Tris\Tris\bin\Debug\Tris.exe.config
+C:\Users\manue\Desktop\Tris\Tris\bin\Debug\Tris.exe
+C:\Users\manue\Desktop\Tris\Tris\bin\Debug\Tris.pdb
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsAI.g.cs
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsCPU.g.cs
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsP2.g.cs
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris_MarkupCompile.cache
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris_MarkupCompile.lref
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsAI.baml
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsCPU.baml
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\P1vsP2.baml
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.g.resources
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.Properties.Resources.resources
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.exe
+C:\Users\manue\Desktop\Tris\Tris\obj\Debug\Tris.pdb
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\bin\Debug\Tris.exe.config
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\bin\Debug\Tris.exe
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\bin\Debug\Tris.pdb
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.csprojAssemblyReference.cache
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsAI.g.cs
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsCPU.g.cs
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsP2.g.cs
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\App.g.cs
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris_MarkupCompile.cache
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris_MarkupCompile.lref
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\MainWindow.baml
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsAI.baml
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsCPU.baml
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\P1vsP2.baml
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.g.resources
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.Properties.Resources.resources
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.csproj.GenerateResource.cache
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.exe
+C:\Users\manue\Google Drive\Baldoni Manuel\Tris\Tris\obj\Debug\Tris.pdb
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\bin\Debug\Tris.exe.config
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\bin\Debug\Tris.exe
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\bin\Debug\Tris.pdb
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.csprojAssemblyReference.cache
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsAI.g.cs
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsCPU.g.cs
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsP2.g.cs
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\App.g.cs
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris_MarkupCompile.cache
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris_MarkupCompile.lref
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\MainWindow.baml
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsAI.baml
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsCPU.baml
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\P1vsP2.baml
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.g.resources
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.Properties.Resources.resources
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.csproj.GenerateResource.cache
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.exe
+C:\Users\manue\Desktop\informatica\Tris (Efficace)\Tris\obj\Debug\Tris.pdb
+C:\Users\manue\Downloads\Tris\Tris\bin\Debug\Tris.exe.config
+C:\Users\manue\Downloads\Tris\Tris\bin\Debug\Tris.exe
+C:\Users\manue\Downloads\Tris\Tris\bin\Debug\Tris.pdb
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.csproj.AssemblyReference.cache
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\MainWindow.g.cs
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsAI.g.cs
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsCPU.g.cs
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsP2.g.cs
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\App.g.cs
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris_MarkupCompile.cache
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris_MarkupCompile.lref
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\MainWindow.baml
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsAI.baml
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsCPU.baml
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\P1vsP2.baml
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.g.resources
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.Properties.Resources.resources
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.csproj.GenerateResource.cache
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.csproj.CoreCompileInputs.cache
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.exe
+C:\Users\manue\Downloads\Tris\Tris\obj\Debug\Tris.pdb
